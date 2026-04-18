@@ -63,7 +63,7 @@ Small helper module used by the CClosure read stage.
 Run everything from this directory:
 
 ```powershell
-cd C:\Users\Jordan\Downloads\BYPER\PS5\3XX\Redis\sb\redis_escape_source
+cd downloads\redis_escape_source
 ```
 
 First, find the current working heap filler:
