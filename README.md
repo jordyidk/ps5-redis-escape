@@ -4,6 +4,10 @@ Repository description:
 
 > PS5 3.00 Redis native ROP sandbox-escape harness using the Redis HLL/CClosure heap primitive, module-pivot dispatch, libkernel resolution, six-argument call/syscall probes, and a notification proof.
 
+```text
+YOU MUST CHANGE YOUR REDIS.CONF FILE YOU NEED TO EDIT IP TO "bind 0.0.0.0"
+```
+
 ## What This Is
 
 This directory contains a single user-facing Python bundle:
