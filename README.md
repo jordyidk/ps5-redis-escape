@@ -214,3 +214,9 @@ poc_<mode>_<case>_fill<filler>.json
 7. Trigger native ROP through Redis object cleanup.
 8. Use the ROP chain to send proof bytes, resolve libraries, call wrappers, or open/write `/dev/notification0`.
 
+```text
+credit: 
+Earthonion
+myself
+anyone who ever spoke about redis
+```
